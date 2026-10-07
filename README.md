@@ -1,3 +1,11 @@
+
+![Alt text](/img/IMG_9969.png)
+
+![Alt text](/img/IMG_4206.png)	
+
+![Alt text](/img/IMG_7528.png)	
+	
+
 # Intel N150 OpenVINO Img2Img + Real-ESRGAN + Gradio
 
 This guide documents a working local image-to-image setup built and tested on a 
