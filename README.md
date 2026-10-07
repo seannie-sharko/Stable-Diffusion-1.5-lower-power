@@ -6,8 +6,11 @@
 
 ![Alt text](/img/IMG_7528.png)	
 	
-This guide documents a working local image-to-image setup built and tested on a 
-low-power Intel N150 system using the integrated Intel GPU.
+This guide documents a working local image-to-image setup built and tested on 
+a low-power Intel N150 system using the integrated Intel GPU.
+
+![Alt text](/img/Image_1.jpg)	
+
 
 The setup uses:
 
